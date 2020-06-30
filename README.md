@@ -1,4 +1,4 @@
-Big Data Analytics in Health Care 
+# Big Data Analytics in Health Care 
 
 In healthcare, large amounts of heterogeneous medical data have become available in various healthcare organizations (payers, providers, pharmaceuticals). This data could be an enabling resource for deriving insights for improving care delivery and reducing waste. The enormity and complexity of these data-sets present great challenges in analyses and subsequent applications to a practical clinical environment. This course introduced the characteristics of medical data and associated data mining challenges on dealing with such data. We covered various algorithms and systems for big data analytics in the context of concrete healthcare analytic applications such as predictive modeling, computational phenotyping and patient similarity. Used a big data analytics system such as Hadoop family (Hive, Pig, HBase), Spark and Graph DB. Used Docker container for code implementation.
 This course consisted of five assignments and a group project. 
